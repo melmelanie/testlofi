@@ -27,17 +27,17 @@
 </p>
 
 <p align="center">
-  <img src="./docs/lofi-player.gif" width="350">
+  <img src="./docs/testlofi.gif" width="350">
 </p>
 
 <p>
   <img src="./docs/pt-br.png" alt="Portuguese" height="16">
-  <a href="https://github.com/LaksCastro/lofi-player/blob/master/README-ptbr.md">Ler em português</a>
+  <a href="https://github.com/LaksCastro/testlofi/blob/master/README-ptbr.md">Ler em português</a>
 </p>
 
 # Live On
 
-Enjoy [clicking here](https://lakscastro.github.io/lofi-player/)
+Enjoy [clicking here](https://lakscastro.github.io/testlofi/)
 
 ## Support
 
@@ -59,7 +59,7 @@ Its a simple and minimalist Player with Lofi music style, builded with HTML, CSS
 - To clone this repo
 
 ```
-git clone https://github.com/LaksCastro/lofi-player.git
+git clone https://github.com/LaksCastro/testlofi.git
 ```
 
 - To change path
@@ -131,7 +131,7 @@ All these amazing gifs and images that are used as a background are from [this p
 <p align="center">
   <sub>Copyright © 2020-present, Laks Castro.</sub>
 </p>
-<p align="center">Lofi Player <a href="https://github.com/LaksCastro/lofi-player/blob/master/LICENSE.md">is MIT licensed 💖</a></p>
+<p align="center">Lofi Player <a href="https://github.com/LaksCastro/testlofi/blob/master/LICENSE.md">is MIT licensed 💖</a></p>
 <p align="center">
   <img src="/public/favicon.png" width="35" />
 </p>
