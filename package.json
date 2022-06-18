@@ -22,8 +22,8 @@
     }
   },
   "scripts": {
-    "dev": "parcel public/index.html --out-dir development -p 3000",
-    "pre-deploy": "parcel build public/index.html --out-dir dist --public-url /lofi-player && workbox generateSW",
+    "dev": "parcel public/index.html --dist-dir development -p 3000",
+    "pre-deploy": "parcel build public/index.html --dist-dir dist --public-url /lofi-player && workbox generateSW",
     "deploy": "node publish"
   },
   "repository": {
