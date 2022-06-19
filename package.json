@@ -23,7 +23,7 @@
   },
   "scripts": {
     "dev": "parcel public/index.html --out-dir development -p 3000",
-    "pre-deploy": "yarn install && parcel build public/index.html --out-dir dist --public-url /testlofi && workbox generateSW"
+    "pre-deploy": "yarn install && parcel build public/index.html --out-dir dist --public-url / && workbox generateSW"
   },
   "repository": {
     "type": "git",
